@@ -1,3 +1,5 @@
+## Have a look at dashboard 
+**Click here** : https://public.tableau.com/app/profile/atul.k4149/viz/walmart_smartphone_scraped_category_dashboard/Dashboard1
 ## Project objective
 #### To analyze walmart's smartphone marketplace to understand seller participation, pricing behavior, customer sentiment, recommendation trends, and category performance
 ##### Product Analyzed 92 , Reviews Scraped 1.3k+ 
